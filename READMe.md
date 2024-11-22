@@ -1,1 +1,1 @@
-craeting a custom cursor and image in it 
+creating a custom cursor and image in it 
